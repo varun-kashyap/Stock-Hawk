@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill"></string>
+    <string name="widget_today">Stock Value</string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="title_stock_detail_activity" translatable="false">StockDetailActivity</string>
+    <string name="network_error">The application requires an active internet connection.</string>
+    <string name="entity_error">The symbol entered is not found.</string>
+    <string name="stock_found">The required stock has been added.</string>
+    <string name="content_description_add_stock">Add a stock item</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="string_tag"  translatable="false">tag</string>
+    <string name="string_add"  translatable="false">add</string>
+    <string name="string_symbol"  translatable="false">symbol</string>
+    <string name="string_periodic"  translatable="false">periodic</string>
+    <string name="string_init"  translatable="false">init</string>
+    <string name="error_no_symbol"  translatable="false">Error! symbol Not found</string>
+    <string name="string_symbol_found" translatable="false">Success! added new Symbol</string>
+    <string name="string_stock_saved" translatable="false">This stock is already saved!</string>
+    <string name="string_set_background_resource" translatable="false">setBackgroundResource</string>
+    <string name="string_query"  translatable="false">query</string>
+    <string name="string_count"  translatable="false">count</string>
+    <string name="string_results"  translatable="false">results</string>
+    <string name="string_quote"  translatable="false">quote</string>
+    <string name="string_change"  translatable="false">Change</string>
+    <string name="string_bid"  translatable="false">Bid</string>
+    <string name="string_percentage_change"  translatable="false">ChangeinPercent</string>
+</resources>
